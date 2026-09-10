@@ -15,7 +15,7 @@ $ echo "Building. Learning. Breaking. Rebuilding."
 
   <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaim-tech&theme=chartreuse_dark"/>
 
-  <img src="https://https://ghstats.dev/api/langs?username=zaim-tech&theme=midnight&hide_border=true&max_langs=12&layout=compact" alt="language graph"/>
+  <img src="https://ghstats.dev/api/langs?username=zaim-tech&theme=midnight&hide_border=true&max_langs=12&layout=compact" alt="language graph"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaim-tech&theme=chartreuse_dark" alt="most commit language" />
 
