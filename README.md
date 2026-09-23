@@ -19,7 +19,7 @@ $ echo "Building. Learning. Breaking. Rebuilding."
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaim-tech&theme=chartreuse_dark" alt="most commit language" />
 
-  <img src="https://ghstats.dev/api/card?username=zaim-tech&theme=midnight&border_radius=29" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=zaim-tech&size=compact&show_emoji=true" alt="GitHub Stats Card" />
 </div>
 
 ---
